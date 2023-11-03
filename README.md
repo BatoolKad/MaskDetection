@@ -28,6 +28,7 @@ Detect different types of masks in images.
 Analyze and evaluate the model's performance.
 Learn about CNN-based image classification
 
+
 ### License
 This project is licensed under the 
 MIT License - see the LICENSE.md file for details.
